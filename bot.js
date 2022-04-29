@@ -7,14 +7,14 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const princerudh = require("./princerudh");
-const rudhra = require('./rudhra');
+const pgirl = require("./benmonster ");
+const rudhra = require('./girl');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./RUDHRA/');
+const {Message, StringSession, Image, Video} = require('./GIRL/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
