@@ -1,1 +1,10 @@
-[![Run on Repl.it](https://replit.com/@BenMonster/Girl-QR?v=1
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
+
+
+
+
+
+
+
+
+
