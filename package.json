@@ -1,14 +1,14 @@
 {
-  "name": "Killergirl",
+  "name": "Girl",
   "version": "7.3.6",
-  "description": "Killergirl is the Modified Version of WhatsAsena, Made By @BenMonster with Baileys.",
-  "main": "./girl/bot.js",
+  "description": "Girl is the Modified Version of WhatsAsena, Made By @BenMonster with Baileys.",
+  "main": "./Girl/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra2.0.git"
+    "url": "git+https://github.com/Ben-Monster/GIRL.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "prince-rudh",
-  "developer": "@TOXIC-DEVIL / @prince-rudh",
+  "author": "ben-monster",
+  "developer": "@TOXIC-DEVIL / @ben-monster ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/prince-rudh/Rudhra2.0/issues"
+    "url": "https://github.com/Ben-Monster/GIRL. "
   },
-  "homepage": "https://github.com/prince-rudh/Rudhra2.0#readme",
+  "homepage": "https://github.com/Ben-Monster/GIRL#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
